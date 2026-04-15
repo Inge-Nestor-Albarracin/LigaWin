@@ -14,7 +14,7 @@ function App() {
       
       <Router>
         <nav className='c-menu'>
-          <Link to ="/Home">Home</Link>
+          <Link to ="/">Home</Link>
           <p></p>
           <Link to ="/Favoritos">Favoritos</Link>
           <p></p>
